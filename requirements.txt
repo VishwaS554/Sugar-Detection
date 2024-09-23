@@ -1,4 +1,4 @@
---upgrade pip
+
 pip>=24.2
 setuptools>=65.0
 wheel>=0.40.0
